@@ -15,6 +15,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=incorrectpleasetryagain&label=Profile%20views&color=0e75b6&style=flat" alt="incorrectpleasetryagain"/>
+</p>
+
 ### ❗Status
 ```
 Looking for Internship
@@ -63,7 +67,6 @@ Looking for Internship
 + 📨 Email: <mailto:michael.steenkamp.github@gmail.com>
 + 💾 Repo: <a href="https://github.com/IncorrectPleaseTryAgain/Portfolio/issues">Portfolio | Issues</a>
 + 📽️ YouTube: <a href="https://www.youtube.com/channel/UCmvf7hFM2S84VY30ERJ1YYg">Channel</a>
-
 
 #
 <details>
