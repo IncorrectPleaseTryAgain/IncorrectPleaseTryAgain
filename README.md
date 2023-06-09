@@ -24,6 +24,8 @@
 Looking for Internship
 ```
 
+📁 <a href="https://github.com/IncorrectPleaseTryAgain/Portfolio">Portfolio Repository</a>
+
 #
 ### 🤔 About
 + 📃 Student | BSc Computer Science
