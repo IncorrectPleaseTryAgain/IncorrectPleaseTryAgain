@@ -37,16 +37,20 @@ Looking for Internship
 
 #
 ### 🧰 Tools
-<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/34353097-e4c3-436d-a2f7-4fe12a0894f6"/>
+<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/34353097-e4c3-436d-a2f7-4fe12a0894f6"></img>
 
-<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/1dfb5a48-6f6c-4544-840e-870fccfb6750"/>
+<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/1dfb5a48-6f6c-4544-840e-870fccfb6750"></img>
 
-<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/f53e6714-9ac9-4fe4-bd96-7d81d319ae10"/>
+<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/f53e6714-9ac9-4fe4-bd96-7d81d319ae10"></img>
 
-<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/edbd56e0-49cd-45de-8298-ecc025d7ac6c"/>
+<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/edbd56e0-49cd-45de-8298-ecc025d7ac6c"></img>
 
-<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/7e2a58e0-a6f0-44d9-aae9-af526a6c3fa7"/>
+<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/9dbe7478-a4ce-4595-a540-d0640ee4ec6d"></img>
+
+<img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/7e2a58e0-a6f0-44d9-aae9-af526a6c3fa7"></img>
 <br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incorrectpleasetryagain&layout=compact)
 
 # 
 ### ♾️ Enviroments
@@ -85,5 +89,5 @@ I first joined the University of Regina in September of 2020, and this is where 
 #### Resources:
 <a href="https://www.flaticon.com/free-icons/data-science" title="data science icons">Data science icon by Dighital Design</a><br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg" tile="typing text">Typing Text by DenverCoder1</a><br>
-<a href="https://icons8.com/" title="tools icons">Tool icons by icons8</a><br>
+<a href="https://icons8.com" title="tools icons">Tool icons by icons8</a><br>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="github stats">GitHub Stats by anuraghazra</a>
