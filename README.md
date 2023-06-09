@@ -53,7 +53,7 @@ Looking for Internship
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incorrectpleasetryagain&layout=compact)
 
 # 
-### ♾️ Enviroments
+### 🏞️ Enviroments
 <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/ebbabafb-6afd-40af-ab5e-01474b9d87fc"/>
 <br><br>
 
