@@ -79,8 +79,11 @@ My journey started when I was around 12yrs old, my dad had a computer with the p
 I first joined the University of Regina in September of 2020, and this is where I complete my first year of programming. I was taught about OOP and data structures and algorithms, all the while using Cpp. I finished my first year but for some reason I decided to switch universities to an online university that is based in the US. Needless to say this was a big mistake, yes I learned some more Cpp as well as python and Javal however, the university's standard was too low for my liking and I wasn't chanllenged enough. I completed about a year and a half at that university before deciding to switch universties again.
 </details>
 
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=incorrectpleasetryagain&show_icons=true&theme=algolia)
+
 #
 #### Resources:
 <a href="https://www.flaticon.com/free-icons/data-science" title="data science icons">Data science icon by Dighital Design</a><br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg" tile="typing text">Typing Text by DenverCoder1</a><br>
 <a href="https://icons8.com/" title="tools icons">Tool icons by icons8</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="github stats">GitHub Stats by anuraghazra</a>
