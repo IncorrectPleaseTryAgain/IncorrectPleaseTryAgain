@@ -85,5 +85,5 @@ I first joined the University of Regina in September of 2020, and this is where 
 #### Resources:
 <a href="https://www.flaticon.com/free-icons/data-science" title="data science icons">Data science icon by Dighital Design</a><br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg" tile="typing text">Typing Text by DenverCoder1</a><br>
-<a href="https://icons8.com/" title="tools icons">Tool icons by icons8</a>
+<a href="https://icons8.com/" title="tools icons">Tool icons by icons8</a><br>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="github stats">GitHub Stats by anuraghazra</a>
