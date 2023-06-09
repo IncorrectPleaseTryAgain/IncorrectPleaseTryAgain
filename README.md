@@ -1,4 +1,5 @@
 ### Hi there 👋
+![data-science](https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/50f63a8f-a37a-4e65-bc1f-aee7fa7f880e)
 
 <!--
 **IncorrectPleaseTryAgain/IncorrectPleaseTryAgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
