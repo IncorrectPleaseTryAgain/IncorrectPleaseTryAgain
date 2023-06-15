@@ -21,10 +21,16 @@
 
 ### ❗Status
 ```
-Looking for Internship
+Looking for Internship...
 ```
 
-📁 <a href="https://github.com/IncorrectPleaseTryAgain/Portfolio">Portfolio Repository</a>
+<!-- NO LINK: https://blackscreen.app/ -->
+### 🍁 Currently Learning | <a href="https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/">link?</a>
+```
+GLSL / Shadertoy : Part.1
+```
+
+#### 📁<a href="https://github.com/IncorrectPleaseTryAgain/Portfolio">Portfolio Repository</a>
 
 #
 ### 🤔 About
