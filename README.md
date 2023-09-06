@@ -24,12 +24,17 @@
 Looking for Internship...
 ```
 
-<!-- NO LINK: https://blackscreen.app/ -->
+<!-- 
+
+NO LINK: https://blackscreen.app/
+
 ### 🧠 Currently Learning | <a href="https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/">link?</a>
 <a href="https://www.shadertoy.com/user/incorrectPleaseTryAgain">Shadertoy Profile</a>
-```
+
 GLSL / Shadertoy : Part 4
-```
+
+-->
+
 
 #### 📁<a href="https://github.com/IncorrectPleaseTryAgain/Portfolio"> Portfolio Repository</a>
 
