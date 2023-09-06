@@ -82,9 +82,9 @@ GLSL / Shadertoy : Part 4
 
 #
 ### ☎️ Contact
-+ 📨 Email: <mailto:michael.steenkamp@icloud.com>
-+ 💾 Repo: <a href="https://github.com/IncorrectPleaseTryAgain/Portfolio/issues">Portfolio | Issues</a>
-+ 📽️ YouTube: <a href="https://www.youtube.com/channel/UCmvf7hFM2S84VY30ERJ1YYg">Channel</a>
++ 📨 <a href="mailto:michael.steenkamp@icloud.com">Email</a>
++ 💾 <a href="https://github.com/IncorrectPleaseTryAgain/Portfolio/issues">Repo</a>
++ 📽️ <a href="https://www.youtube.com/channel/UCmvf7hFM2S84VY30ERJ1YYg">YouTube</a>
 
 #
 <details>
