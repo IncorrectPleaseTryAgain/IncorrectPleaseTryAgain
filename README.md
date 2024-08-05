@@ -41,11 +41,11 @@ GLSL / Shadertoy : Part 4
 #
 ### 🤔 About
 + 📃 Student | BSc Computer Science
-+ 🌱 20yrs Old
-+ 🥸 3+ Years Programming Experience
++ 🌱 21yrs Old
++ 🥸 4+ Years Programming Experience
 + 🧩 Interested in solving problems
 + ❣️ Enjoy programming
-+ 🐣 Relatively inexperienced
++ 🐣 Somewhat inexperienced
 + 💡 Eager to learn
 + ✔️ Willing to ask for help
 
