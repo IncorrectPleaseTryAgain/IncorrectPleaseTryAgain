@@ -19,9 +19,11 @@
   <img src="https://komarev.com/ghpvc/?username=incorrectpleasetryagain&label=Profile%20views&color=0e75b6&style=flat" alt="incorrectpleasetryagain"/>
 </p>
 
+#### 📁<a href="https://github.com/IncorrectPleaseTryAgain/Portfolio"> Portfolio Repository</a>
+
 ### ❗Status
 ```
-Looking for Internship...
+Watching and Learning...
 ```
 
 <!-- 
@@ -34,9 +36,6 @@ NO LINK: https://blackscreen.app/
 GLSL / Shadertoy : Part 4
 
 -->
-
-
-#### 📁<a href="https://github.com/IncorrectPleaseTryAgain/Portfolio"> Portfolio Repository</a>
 
 #
 ### 🤔 About
