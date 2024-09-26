@@ -50,8 +50,11 @@ GLSL / Shadertoy : Part 4
 + ✔️ Willing to ask for help
 
 #
-### 🧰 Tools
+### 🧰 Tools 
+<!-- icond from https://devicon.dev/ -->
 <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/34353097-e4c3-436d-a2f7-4fe12a0894f6"></img>
+
+<img align=left style="margin-left: 15px" width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></img>
 
 <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/1dfb5a48-6f6c-4544-840e-870fccfb6750"></img>
 
@@ -62,13 +65,27 @@ GLSL / Shadertoy : Part 4
 <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/9dbe7478-a4ce-4595-a540-d0640ee4ec6d"></img>
 
 <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/7e2a58e0-a6f0-44d9-aae9-af526a6c3fa7"></img>
-<br><br>
 
+<img align=left style="margin-left: 15px" width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"></img>
+
+<img align=left style="margin-left: 15px" width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></img>
+
+
+<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incorrectpleasetryagain&layout=compact)
+
 
 # 
 ### 🏞️ Enviroments
+<!-- icond from https://devicon.dev/ -->
 <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/ebbabafb-6afd-40af-ab5e-01474b9d87fc"/>
+
+<img align=left style="margin-left: 15px" width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+
+<img align=left style="margin-left: 15px" width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+
+<img align=left style="margin-left: 15px" width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"/>
+
 <br><br>
 
 #
