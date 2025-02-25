@@ -20,6 +20,8 @@
 </p>
 
 #### 📁<a href="https://github.com/IncorrectPleaseTryAgain/Portfolio"> Portfolio Repository</a>
+#### 📄[resume.pdf](https://github.com/user-attachments/files/18953379/resume.pdf)
+
 
 ### ❗Status
 ```
@@ -40,8 +42,8 @@ GLSL / Shadertoy : Part 4
 #
 ### 🤔 About
 + 📃 Student | BSc Computer Science
-+ 🌱 21yrs Old
-+ 🥸 4+ Years Programming Experience
++ 🌱 22yrs Old
++ 🥸 5+ Years Programming Experience
 + 🧩 Interested in solving problems
 + ❣️ Enjoy programming
 + 🐣 Somewhat inexperienced
