@@ -20,8 +20,9 @@
 </p>
 
 #### 📁<a href="https://github.com/IncorrectPleaseTryAgain/Portfolio"> Portfolio Repository</a>
+```
 #### 📄[resume.pdf](https://github.com/user-attachments/files/18953379/resume.pdf)
-
+```
 
 ### ❗Status
 ```
