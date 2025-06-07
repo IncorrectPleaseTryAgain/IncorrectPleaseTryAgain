@@ -24,7 +24,7 @@
 #### 📄[resume.pdf](https://github.com/user-attachments/files/18953379/resume.pdf)
 -->
 
-#### ✨ Featured Repository <a href="https://github.com/IncorrectPleaseTryAgain/Space-Shooter/tree/main"> Space-Shooter</a>
+#### ✨ Featured Repository <a href="https://github.com/IncorrectPleaseTryAgain/UnityGame-SpaceShooter"> Space-Shooter</a>
 
 ### ❗Status
 ```
