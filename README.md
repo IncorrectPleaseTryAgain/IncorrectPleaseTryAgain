@@ -49,7 +49,7 @@ GLSL / Shadertoy : Part 4
 + 🥸 5+ Years Programming Experience
 + 🧩 Interested in solving problems
 + ❣️ Enjoy programming
-+ 🐣 Somewhat inexperienced
++ 🐣 Experienced
 + 💡 Eager to learn
 + ✔️ Willing to ask for help
 
